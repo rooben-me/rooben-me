@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rubankumar.nkl@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/121RbXLjJtvx-Lgqe164szX3lQIP4Grqe/view?usp=sharing](https://drive.google.com/file/d/121RbXLjJtvx-Lgqe164szX3lQIP4Grqe/view?usp=sharing)
+- 📄 Know about my experiences check my resume [https://drive.google.com/file/d/121RbXLjJtvx-Lgqe164szX3lQIP4Grqe/view?usp=sharing](https://drive.google.com/file/d/121RbXLjJtvx-Lgqe164szX3lQIP4Grqe/view?usp=sharing)
 
 - ⚡ Fun fact **I can learn anything quick**
 
