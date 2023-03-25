@@ -1,17 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ruban</h1>
 <h3 align="center">A passionate frontend developer | Product Designer</h3>
 
-- 🔭 I’m currently working on **building dapps in web3**
-
-- 🌱 I’m currently learning **web3**
-
-- 💬 Ask me about **React, Nextjs, Tailwind CSS**
+- 💬 Interested about **React, Nextjs, Tailwind CSS**
 
 - 📫 How to reach me **rubankumar.nkl@gmail.com**
 
-- 📄 Know about my experiences check my resume [https://drive.google.com/file/d/121RbXLjJtvx-Lgqe164szX3lQIP4Grqe/view?usp=sharing](https://drive.google.com/file/d/121RbXLjJtvx-Lgqe164szX3lQIP4Grqe/view?usp=sharing)
-
-- ⚡ Fun fact **I can learn anything quick**
+- 📄 Know about my experiences check my resume [https://drive.google.com/file/d/1O7_rqwgo5iSx-TSSsvqowwgJHubduoGI/view?usp=sharing](https://drive.google.com/file/d/121RbXLjJtvx-Lgqe164szX3lQIP4Grqe/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
