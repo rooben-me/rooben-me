@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ruban</h1>
 <h3 align="center">A passionate frontend developer | Product Designer</h3>
-
+<a href="https://app.daily.dev/rooben"><img src="https://api.daily.dev/devcards/2294ae10d6b34399bc9cd80775223980.png?r=8ay" width="400" alt="rooben's Dev Card"/></a>
 - 💬 Interested about **React, Nextjs, Tailwind CSS**
 
 - 📫 How to reach me **rubankumar.nkl@gmail.com**
