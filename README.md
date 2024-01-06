@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **rubankumar.nkl@gmail.com**
 
-- 📄 Know about my experiences check my resume [https://drive.google.com/file/d/1O7_rqwgo5iSx-TSSsvqowwgJHubduoGI/view?usp=sharing](https://drive.google.com/file/d/1O7_rqwgo5iSx-TSSsvqowwgJHubduoGI/view?usp=sharing)
+- 📄 Know about my experiences check my resume [https://drive.google.com/file/d/1JiPi7y0Scj2XiG3RPMXto_v-zU6evcFb/view](https://drive.google.com/file/d/1JiPi7y0Scj2XiG3RPMXto_v-zU6evcFb/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
