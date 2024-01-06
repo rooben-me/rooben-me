@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ruban</h1>
 <h3 align="center">A passionate frontend developer | Product Designer</h3>
+
 - 💬 Interested about **React, Nextjs, Tailwind CSS**
-
 - 📫 How to reach me **rubankumar.nkl@gmail.com**
-
 - 📄 Know about my experiences check my resume [https://drive.google.com/file/d/1JiPi7y0Scj2XiG3RPMXto_v-zU6evcFb/view](https://drive.google.com/file/d/1JiPi7y0Scj2XiG3RPMXto_v-zU6evcFb/view)
-
 - Portfolio : https://www.rooben.site
+
+
 <a href="https://app.daily.dev/rooben"><img src="https://api.daily.dev/devcards/2294ae10d6b34399bc9cd80775223980.png?r=8ay" width="400" alt="rooben's Dev Card"/></a>
 
 <h3 align="left">Connect with me:</h3>
