@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ruban</h1>
-<h3 align="center">A passionate frontend developer | Product Designer</h3>
 
 - 💬 Interested about **React, Nextjs, Tailwind CSS**
 - 📫 How to reach me **rubankumar.nkl@gmail.com**
-- 📄 Know about my experiences check my resume [https://drive.google.com/file/d/1JiPi7y0Scj2XiG3RPMXto_v-zU6evcFb/view](https://drive.google.com/file/d/1JiPi7y0Scj2XiG3RPMXto_v-zU6evcFb/view)
+
+## Popular Projects
+- https://www.reddit.com/r/developersIndia/comments/1dyxf2a/just_finished_my_virtual_dress_tryon_chrome/
+- https://www.reddit.com/r/LocalLLaMA/comments/1e3lr8p/i_reverseengineered_figmas_new_tone_changer/
 
 ## Socials
 - Portfolio : https://www.rooben.tech
